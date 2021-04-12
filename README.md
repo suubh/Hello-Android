@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://cdn.dribbble.com/users/1902193/screenshots/7039042/media/d349801523d44b272d8d6b825e2db14d.gif">
+  <img align="center" height="200px" width="200px" src="https://cdn.dribbble.com/users/1902193/screenshots/7039042/media/d349801523d44b272d8d6b825e2db14d.gif">
 </p>
 <h1> Hello-Android </h1> 
 It contain all the Android projects that I did just for learning . Built using Kotlin.<hr>
