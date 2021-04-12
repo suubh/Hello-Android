@@ -20,6 +20,7 @@ If you want to try it in your machine,follow the steps .<br>
 
 <details>
   <summary><strong>Dice App.</strong></summary>
+  <p>It is a clean dice roller app . Will later try to add quiz number game. </p>
   <p align="center">
     <img align="center" height="500px" width="250px" src="https://user-images.githubusercontent.com/47265493/114468082-8f226700-9c08-11eb-91f1-1a73e52c7771.gif">
   </p>
