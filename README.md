@@ -1,5 +1,13 @@
 # Hello-Android
-It contain all the Android projects that I did just for learning . Built using Kotlin.
+It contain all the Android projects that I did just for learning . Built using Kotlin.<br>
+If you want to try it in your machine,follow the steps .<br>
+<ul>
+  <li> Download the Zip and Extract it.</li>
+<img align="center" src="https://user-images.githubusercontent.com/47265493/114360907-31a00300-9b93-11eb-9d4b-333216f45b2e.jpg">
+  <li> Open the project folder you want to see in Android Studio.</li>
+<ul>
+
+
 
 ## List of Projects
 
