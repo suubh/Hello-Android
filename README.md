@@ -20,5 +20,8 @@ If you want to try it in your machine,follow the steps .<br>
 
 <details>
   <summary><strong>Dice App.</strong></summary>
-  
+  <p align="center">
+    <img align="center" height="400px" width="250px" src="https://user-images.githubusercontent.com/47265493/114468082-8f226700-9c08-11eb-91f1-1a73e52c7771.gif">
+  </p>
+
 </details>
