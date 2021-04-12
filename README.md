@@ -39,7 +39,7 @@ If you want to try it in your machine,follow the steps .<br>
 </details>
 
 
-## My Google Dev badges
+# My Google Dev badges
 
 ![Google Developer Profile  -  google-dev 4-13-2021 3-45-28 AM](https://user-images.githubusercontent.com/47265493/114469729-4e781d00-9c0b-11eb-8e4a-e0e4a13649d5.png)
 ![Google Developer Profile  -  google-dev 4-13-2021 3-45-56 AM](https://user-images.githubusercontent.com/47265493/114469739-533cd100-9c0b-11eb-98ec-9b4418df2b3c.png)
