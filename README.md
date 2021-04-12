@@ -2,7 +2,6 @@
   <img align="center" height="200px" width="250px" src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif">
 </p>
 <h1> Hello-Android </h1> 
-It contain all the Android projects that I did just for learning . Built using Kotlin.<hr>
 If you want to try it in your machine,follow the steps .<br>
 <ul>
   <li> Download the Zip and Extract it.</li>
