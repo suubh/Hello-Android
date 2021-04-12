@@ -8,7 +8,7 @@ If you want to try it in your machine,follow the steps .<br>
 <img align="center" height="200px" width="530px "src="https://user-images.githubusercontent.com/47265493/114360907-31a00300-9b93-11eb-9d4b-333216f45b2e.jpg">
   <li> Open the project folder you want to see in Android Studio.</li>
 </ul>
-
+<br>
 
 # List of Projects
 
@@ -37,7 +37,7 @@ If you want to try it in your machine,follow the steps .<br>
   <p>An app for storing Movies,Anime,Series or Documentary that you have watched.Will try</p>
   <img src=" ">
 </details>
-
+<br>
 
 # My Google Dev badges
 
