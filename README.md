@@ -28,13 +28,13 @@ If you want to try it in your machine,follow the steps .<br>
 
 <details>
   <summary><strong>Quiz App.</strong></summary>
-  <p>On work</p>
+  <p>A simple Quiz app for 10 questions.Will try.</p>
   <img src=" ">
 </details>
 
 <details>
   <summary><strong>Collection.</strong></summary>
-  <p>An app for storing Movies,Anime,Series or Documentary that you have watched.Will try</p>
+  <p>An app for storing Movies,Anime,Series or Documentary that you have watched.Will try.</p>
   <img src=" ">
 </details>
 <br>
