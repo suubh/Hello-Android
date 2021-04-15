@@ -7,6 +7,7 @@ If you want to try it in your machine,follow the steps .<br>
   <li> Download the Zip and Extract it.</li>
 <img align="center" height="200px" width="530px "src="https://user-images.githubusercontent.com/47265493/114360907-31a00300-9b93-11eb-9d4b-333216f45b2e.jpg">
   <li> Open the project folder you want to see in Android Studio.</li>
+  <li> Run the project using AVD(Android Virtual Device) or Android Device</li>
 </ul>
 <br>
 
