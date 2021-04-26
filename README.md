@@ -34,7 +34,7 @@ If you want to try it in your machine,follow the steps .<br>
 </details>
 
 <details>
-  <summary><strong>Collection.</strong></summary>
+  <summary><strong>Collections.</strong></summary>
   <p>An app for storing Movies,Anime,Series or Documentary that you have watched.Will try.</p>
   <img src=" ">
 </details>
